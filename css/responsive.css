@@ -1,0 +1,546 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.hero-left h2 {
+		font-size: 50px;
+	}
+
+	.contact-item-wrap {
+		padding: 30px 20px;
+	}
+
+	.input-item4 input {
+		padding: 16px 10px;
+	}
+
+	.requirment-item {
+	 	padding: 0 25px 30px 25px;
+	}
+
+	.account-item {
+	  padding: 0 25px 30px 25px;
+	}
+
+	.map-box ul li:nth-child(1) p::after {
+	 	width: 290px;
+	}
+
+	.map-box ul li p {
+		font-size: 16px;
+	}
+
+	.stor-open-item ul li {
+	   padding: 23px 15px;
+	}
+
+	.stor-open-item input::placeholder {
+	    font-size: 14px;
+	}
+
+	.requirment-item h4 {
+		font-size: 18px;
+	}
+
+	.turbeazy-right {
+	  	padding-left: 35px;
+	  	margin-left: 25px;
+	 }
+
+} 
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.hero-area {
+	  	padding: 55px 0 100px 0;
+	}
+
+	.hero-left {
+		text-align: center;
+	}
+
+	.hero-left h2 {
+		font-size: 50px;
+	}
+
+	.hero-right {
+		margin-top: 40px;
+	}
+
+	.input-item {
+	  	width: 100%;
+	  	padding-right: 0;
+	  	margin-top: 15px;
+	}
+
+	.input-item4 {
+	  	width: 100%;
+	  	margin-top: 15px;
+	}
+
+	.requirment-item4 {
+	  	margin-top: 0;
+	}
+
+	.requirment-main {
+	  	margin-top: 8px;
+	} 
+
+	.requirment-item {
+		margin-top: 45px;
+	}
+
+	.Enrollment-right {
+		margin-top: 30px;
+	}
+
+	.accordion-toper h2 {
+		text-align: center;
+	}
+
+	.tour-top-btn button {
+		margin-top: 30px;
+	}
+
+	.account-item3 {
+		margin-top: 50px;
+	}
+
+	.spotify-btn {
+		margin-top:20px;
+	}
+
+	.turbeazy-right {
+		margin-top: 40px;
+	}
+
+	.spotify-btn1 a,
+	.spotify-btn2 a,
+	.spotify-btn3 a {
+	  	border-radius: 5px;
+	}
+
+	.turbeazy-area .col-lg-3 {
+	   width: 100%;
+	}
+
+	.turbeazy-area .col-lg-9 {
+	   width: 100%;
+	}
+
+	.turbeazy-item-img {
+	  	left: 50%;
+	  	top: 65px;
+	  	transform: translateX(-50%);
+	 }
+
+	 .turbeazy-item {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-email {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-social {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-social ul {
+	 	justify-content: center;
+	 } 
+	
+	 .tour-top-btn {
+	  	padding-left: 0;
+	}
+
+	.tour-right {
+	  	padding-left: 0;
+	}
+
+	.Enrollment-left {
+	  	padding-right: 0;
+	}
+
+	.Enrollment-right {
+	  	padding-left: 0;
+	}
+
+
+}
+
+
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+	.navigation-area {
+	   padding: 4px 0;
+	}
+
+	.hero-area {
+	  	padding: 30px 0 90px 0;
+	}
+
+	.hero-left {
+		text-align: center;
+	}
+
+	.hero-left h2 {
+		font-size: 35px;
+		text-align: center;
+	}
+
+	.hero-left a {
+		margin-top: 30px;
+	}
+
+	.hero-right {
+		margin-top: 30px;
+	}
+
+	.input-item {
+	  	width: 100%;
+	  	padding-right: 0;
+	  	margin-top: 15px;
+	}
+
+	.input-item4 {
+	  	width: 100%;
+	  	margin-top: 15px;
+	}
+
+	.wrapper2-kp iframe {
+	  	height: 280px;
+	}
+
+	.contact-item-wrap {
+		padding: 12px;
+	}
+
+	.upocoming-area {
+	  	padding: 30px 0 65px 0;
+	}
+
+	.upcoming-title h4 {
+		font-size: 23px;
+	}
+
+	.upocoming-cnt h4 {
+		font-size: 16px;
+	}
+
+	.what-item {
+		text-align: center;
+	}
+ 
+	.what-right {
+		margin-top: 20px;
+	}
+
+	.what-qusen {
+		margin: auto;
+		margin-top: -35px;
+	}
+
+	.requirment-area {
+	  	padding: 35px 0;
+	}
+
+	.requirment-main {
+	  	margin-top: 8px;
+	}
+
+	.requirment-title h2 {
+		text-align: center;
+	}
+
+	.requirment-item4 {
+	  	margin-top: 0;
+	} 
+
+	.requirment-item {
+		margin-top: 45px;
+		text-align: center;
+	}
+
+	.requirment-img {
+		margin: auto;
+		margin-top: -20px;
+	}
+
+	.Enrollment-right {
+		margin-top: 30px;
+	}
+
+	.Enrollment-right h4 {
+		text-align: center;
+		font-size: 25px;
+	}
+
+	.events-area {
+	  	padding-bottom: 35px;
+	}
+
+	.events-title h2 {
+		text-align: center;
+	}
+
+	.accordion-toper h2 {
+		text-align: center;
+	} 
+
+	.accordion-title span {
+	  	margin-right: 10px;
+	}
+
+	.accrodion-area {
+	  	padding: 1px 0 35px 0;
+	}
+
+	.copyright-cnt ul {
+		display: block;
+		text-align: center;
+	}
+
+	.footer-area {
+		padding: 15px 0 30px 0;
+	}
+
+	.footer-item {
+		margin-top: 30px;
+	}
+
+	.hero-area2 {
+		padding: 120px 0 40px 0;
+	}
+
+	.stor-open-item ul li:nth-child(1) {
+	  	width: 100%;
+	  	text-align: center;
+	}
+
+	.stor-open-item ul li:nth-child(2) {
+	  	width: 100%;
+	}
+
+	.stor-open-item ul li:nth-child(3) {
+	  	width: 100%;
+	  	text-align: center;
+	}
+
+	.tour-top-btn button {
+		margin-top: 30px;
+		padding: 20px 10px;
+	}
+
+	.stor-open-item ul li {
+	  	padding: 10px 15px;
+	}
+
+	.stor-open-item input {
+		padding-left: 25px;
+	}
+
+	.tour-area {
+	  	padding: 40px 0 15px 0;
+	}
+
+	.tour-top-btn {
+	  	padding-left: 0;
+	}
+
+	.tour-right {
+	  	padding-left: 0;
+	}
+
+	.map-box ul li:nth-child(1) p::after {
+	  	width: 280px;
+	}
+
+	.mapbox-list {
+	  	padding: 0 15px;
+	}
+
+	.map-box ul li p {
+		font-size: 15px;
+	}
+
+	.events-title h2 {
+		font-size: 25px;
+	}
+
+	.account-item {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.account-img {
+		margin: auto;
+		margin-top: -20px;
+	}
+
+	.account-item h4::after {
+		display: none;
+	}
+
+	.headliner-profil1 {
+	  	margin-top: 20px;
+	}
+
+	.other-profil {
+	  	margin-top: 30px;
+	}
+
+	.headliner-profil {
+		margin: auto;
+		margin-top: 20px;
+	}
+
+	.other-profil h4 {
+		text-align: center;
+	}
+
+	.about-item {
+	   margin-top: 30px;
+	   text-align: center;
+	}
+
+	.about-item p {
+		font-size: 16px;
+	}
+
+	.headliner-item h4 {
+		text-align: center;
+	}
+
+	.headliner-item {
+	  	margin-top: 30px;
+	}
+
+	.upcoming-title3 h2 {
+		text-align: center;
+	}
+
+	.upcoming3-area {
+	  	padding: 50px 0;
+	}
+
+	.events-area3 {
+	  	padding: 5px 0 40px 0;
+	}
+
+	.Enrollment-left {
+	  	padding-right: 0;
+	}
+
+	.Enrollment-right {
+	  	padding-left: 0;
+	}
+
+	.turbeazy-right {
+	  	padding-left: 15px;
+	  	margin-top: 35px;
+	  	padding-top: 15px;
+	  	margin-left: 0;
+	}
+
+	.biography-item-right h4 {
+		text-align: center;
+	}
+
+	.biography-item-left h4 {
+		text-align: center;
+	}
+
+	.biography-item-left p {
+		text-align: center;
+		font-size: 16px;
+	}
+
+	.spotify-btn {
+		margin-top:10px;
+	}
+	
+	.spotify-btn1 a,
+	.spotify-btn2 a,
+	.spotify-btn3 a {
+	  	border-radius: 5px;
+	  	text-align: initial;
+	  	display: block;  	
+	}
+
+	.spotify-btn1 a p,
+	.spotify-btn2 a p,
+	.spotify-btn3 a p {
+		max-width: 150px;
+		margin: auto;
+	}
+
+	.biography-item-left {
+	  	margin-top: 30px;
+	}
+
+	.biography-item-right {
+	  	margin-top: 28px;
+	}
+
+	.turbeazy-area {
+	  	padding-bottom: 35px;
+	}
+
+	.turbeazy-area .col-lg-3 {
+	   width: 100%;
+	}
+
+	.turbeazy-area .col-lg-9 {
+	   width: 100%;
+	}
+
+	.turbeazy-item-img {
+	  	left: 50%;
+	  	top: 65px;
+	  	transform: translateX(-50%);
+	 }
+
+	 .turbeazy-item {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-email {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-social {
+	 	text-align: center;
+	 }
+
+	 .turbeazy-social ul {
+	 	justify-content: center;
+	 }
+
+	 .signup-area {
+	  	padding: 60px 0 60px 0;
+	}
+
+	 .signup-top h6::after {
+	  	left: 30px;
+	 }
+
+	 .signup-top h6::before {
+	  	right: 30px;
+	} 
+	
+
+
+}
+
+
+
+
+		
+		         
